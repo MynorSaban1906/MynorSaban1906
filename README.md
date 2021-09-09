@@ -8,11 +8,6 @@
 </div>
   
   
-   ##
- 
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   <div align="center"><img  src="https://i.imgur.com/fzvjgG6h.jpg" width="300" height="200"> </div>
 </div>
    
