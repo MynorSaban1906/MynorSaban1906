@@ -1,4 +1,8 @@
 ### Hi, I'm Mynor 🦖🦈 🦈 
+10 lines (5 sloc)  3.45 KB
+   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mynorsaban1906&label=Visitors&color=blue&style=flat" alt="mynorsaban1906" /> </p>
+
 
 <div align="center">
   <a href="https://github.com/MynorSaban1906">
